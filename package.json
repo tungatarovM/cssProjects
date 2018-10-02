@@ -1,0 +1,22 @@
+{
+  "name": "tungatarov-css-projects",
+  "version": "1.0.0",
+  "description": "css practice projects",
+  "main": "index.js",
+  "scripts": {
+    "compile:natours:sass": "node-sass natours/sass/main.scss natours/css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tungatarovM/cssProjects.git"
+  },
+  "author": "Tungatarov Meirambek",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.9.3"
+  },
+  "bugs": {
+    "url": "https://github.com/tungatarovM/cssProjects/issues"
+  },
+  "homepage": "https://github.com/tungatarovM/cssProjects#readme"
+}
